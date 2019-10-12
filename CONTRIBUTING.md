@@ -88,3 +88,11 @@ After pushing, go to [GitHub releases](https://github.com/cypress-io/circleci-or
 - https://github.com/CircleCI-Public/circleci-orbs/blob/master/src/rollbar/orb.yml
 - https://github.com/CircleCI-Public/circleci-orbs/blob/master/src/codecov/orb.yml
 - https://github.com/CircleCI-Public/circleci-orbs/blob/master/src/heroku/orb.yml
+
+When Forrester released its 2016 report “Open Source Powers Enterprise Digital Transformation,” some people in the open source community were surprised by the results. They weren’t surprised that 41 percent of enterprise decision makers called open source a high priority and planned to increase use of open source in their organizations. They were concerned that the other 59 percent didn’t seem to understand the role open source would play in the future of the enterprise.
+
+Paul Miller, one of the analysts behind the report, wrote, “The myth that open source software is exclusively written by and for lonely – rather odd – individual geeks remains remarkably prevalent. And yet it’s a myth that is almost entirely wrong. Again and again, we encounter executives who do not grasp how much their organization already depends on open source. More importantly, they do not see the key role that open source technologies and thinking will play in enabling their efforts to transform into a customer-obsessed business that really can win, serve, and retain customers.”
+
+Fast-forward to today, and open source skills are among the most in-demand: 83 percent of hiring managers surveyed for the 2018 Open Source Jobs report said hiring open source talent was a priority this year, up from 76 percent last year. (More on that report in a minute.) Hiring managers are touting their organization’s contribution to open source projects as a recruiting strategy for nabbing top talent. Some of the biggest trends in enterprise IT, such as containers and hybrid cloud, rely on open source technologies including Linux and Kubernetes.
+
+The mindset and narrative around open source have changed. Enterprise IT and business leaders should be able to keep up with IT organizations doing innovative work with open source technologies. We’ve rounded up some resources to help you get up to speed – and stay there.
